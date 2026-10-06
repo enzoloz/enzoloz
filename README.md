@@ -9,8 +9,9 @@ Estou construindo minha base em programação e gosto de entender como os sistem
 ## O que estou aprendendo
 
 - Lógica de programação
-- Python
-- C++
+- Programação em Python
+- Programação em C++
+- Engenharia da Inteligência Artificial
 
 ## Tecnologias
 
