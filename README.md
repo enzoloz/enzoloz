@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Enzo! 👋
 
 Estudante de **Ciência da Computação** no primeiro semestre da graduação, curioso e sempre com vontade de aprender.
 
