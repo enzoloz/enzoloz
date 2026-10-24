@@ -4,7 +4,7 @@ Estudante de **Ciência da Computação** no primeiro semestre da graduação, c
 
 ## Sobre mim
 
-Estou construindo minha base em programação e gosto de entender como os sistemas funcionam. Encaro cada desafio como uma oportunidade de evoluir. Meus interesses incluem **inteligência artificial** e **cibersegurança**.
+Estou construindo minha base em programação e gosto de entender como os sistemas funcionam. Encaro cada desafio como uma oportunidade de evoluir. Meus interesses incluem **desenvolvimento de softwares**, **inteligência artificial** e **cibersegurança**.
 
 ## O que estou aprendendo
 
